@@ -1,0 +1,3 @@
+TELEGRAM_TOKEN = "123456:ABCDEF"
+TELEGRAM_CHANNEL_ID = "-100xxxxxxxxxx"
+HEADERS = {"User-Agent": "Mozilla/5.0"}
